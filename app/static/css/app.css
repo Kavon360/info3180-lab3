@@ -1,3 +1,48 @@
 body {
     padding-top: 5rem;
+    background-color: #ffeead;
+}
+
+
+
+.error{
+    color: red;
+    
+}
+
+img{
+    height: 320px;
+    width: 300px;
+    border: 2px solid #88d8b0;
+    border-radius: 3px;
+    float: left;
+    margin-right: 10px;
+    margin-top: 5px;
+}
+
+
+.boxbox{
+    float: left;
+    border: 3px solid #88d8b0;
+    margin-left: 5px;
+    border-radius: 3px;
+}
+
+#name{
+    background-color: #88d8b0;
+}
+
+
+form span {
+    color: red;
+    font-weight: bold;
+}
+
+form textarea{
+    width: 100px;
+    height: 100px;
+}
+
+form input{
+    width: 100px;
 }
